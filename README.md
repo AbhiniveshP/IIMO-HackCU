@@ -7,7 +7,16 @@ Devpost Link :https://devpost.com/software/indian-premier-league
 
 
 ![Screenshot](kibana_ss.png)
-	The line graph depicts the number of accidents reported on specific dates between 2014 to 2019. We can interpret that there are more number of accidents reported in the year of 2016 and 2019. The frequency of accidents is primarily higher in the year 2016 and 2019.
+	The above screenshot depicts the dashboard potraying all the visualizations of IPL.
+
+
+
+
+	GCP - Architectural Diagram
+
+
+![Screenshot](kibana_ss.png)
+	The above screenshot depicts the dashboard potraying all the visualizations of IPL.
 
 
 ## Inspiration
