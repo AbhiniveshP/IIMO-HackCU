@@ -2,6 +2,14 @@
 
 Devpost Link :https://devpost.com/software/indian-premier-league
 
+
+	Kibana Dashboard
+
+
+![Screenshot](AccidentsOverTIme.PNG)
+	The line graph depicts the number of accidents reported on specific dates between 2014 to 2019. We can interpret that there are more number of accidents reported in the year of 2016 and 2019. The frequency of accidents is primarily higher in the year 2016 and 2019.
+
+
 ## Inspiration
 As every match played is considered important and in general, any sports team would like to know the favorable conditions which can help them to win. Here we tried to know the stats and win/loss conditions for multiple combinations ranging from the venue, teams, runs etc. These visualizations with enormous filters will help the team to chose accordingly making all the possible favorable conditions.
 ## What it does
