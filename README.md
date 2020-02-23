@@ -1,10 +1,10 @@
 # IIMO-HackCU
 
-https://devpost.com/software/indian-premier-league
+Devpost Link :https://devpost.com/software/indian-premier-league
 
 
 Team Meambers:
-Nithin Veer Reddy
-Abhinivesh Palusa
-Lokin Sai Makkenna
-Mohan Dwarampudi
+Nithin Veer Reddy<br/>
+Abhinivesh Palusa<br/>
+Lokin Sai Makkenna<br/>
+Mohan Dwarampudi<br/>
