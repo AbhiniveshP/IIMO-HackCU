@@ -15,7 +15,7 @@ Devpost Link :https://devpost.com/software/indian-premier-league
 	GCP - Architectural Diagram
 
 
-![Screenshot](kibana_ss.png)
+![Screenshot](Arch Diagram.png.png)
 	The above screenshot depicts the dashboard potraying all the visualizations of IPL.
 
 
