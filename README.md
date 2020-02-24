@@ -37,8 +37,8 @@ We have learned to incorporate Google Cloud Platform in visualizing the stats of
 
 
 
-Team Meambers: <br/>
-Nithin Veer Reddy<br/>
-Abhinivesh Palusa<br/>
-Lokin Sai Makkenna<br/>
-Mohan Dwarampudi<br/>
+## Team Meambers: <br/>
+### Nithin Veer Reddy<br/>
+### Abhinivesh Palusa<br/>
+### Lokin Sai Makkenna<br/>
+### Mohan Dwarampudi<br/>
